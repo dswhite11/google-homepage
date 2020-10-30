@@ -14,6 +14,14 @@ body {
     margin: 0;
 }
 
+button {
+    height: 3rem;
+    border-radius: 3px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border: none;
+}
+
 /* All header materials */
 
 header {
@@ -49,6 +57,12 @@ header div span {
 
 .userphoto { 
     border-radius: 25px;
+}
+
+.sign-in-button {
+    background-color: rgb(24, 24, 243);
+    color: white;
+    text-transform: uppercase;
 }
 
 /* Main styles */
