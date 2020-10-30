@@ -63,6 +63,7 @@ header div span {
     background-color: rgb(24, 24, 243);
     color: white;
     text-transform: uppercase;
+    font-weight: bold;
 }
 
 /* Main styles */
@@ -92,6 +93,12 @@ header div span {
 .search-buttons {
     padding: 10px;
     margin: 10px;
+    margin-top: 5px;
+}
+
+.search-buttons button {
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 
